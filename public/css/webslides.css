@@ -1078,7 +1078,7 @@ h1 span {
   text-transform: uppercase; }
   @media (min-width: 768px) {
     .text-landing {
-      letter-spacing: 1.6rem; } }
+       } }
 
 /* -- Subtitle (Before h1, h2) p.subtitle + h1/h2 */
 .text-subtitle {
@@ -2562,7 +2562,7 @@ cite span {
   position: relative; }
   .text-quote:before,
   .wall:before {
-    content: '\201C';
+
     font-family: arial, sans-serif;
     font-size: 12rem;
     height: 5.6rem;
